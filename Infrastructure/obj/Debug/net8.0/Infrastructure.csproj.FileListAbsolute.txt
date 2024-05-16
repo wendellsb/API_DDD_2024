@@ -1,0 +1,17 @@
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\bin\Debug\net8.0\Entities.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\bin\Debug\net8.0\Entities.pdb
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Wendell\Desktop\Desenvolvimento\DDD_2024\API_DDD_2024\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
